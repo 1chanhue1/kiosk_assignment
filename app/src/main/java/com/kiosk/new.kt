@@ -1,5 +1,9 @@
 package com.kiosk
 
 fun main(){
-    println("test")
+    println("test" +
+            "d." +
+            "e" +
+
+            "")
 }
