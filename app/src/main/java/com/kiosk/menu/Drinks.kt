@@ -1,4 +1,3 @@
 package com.kiosk.menu
 
-class Drinks {
-}
+class Drinks(name: String, price: Double, description: String) : Menu(name, price, description)
